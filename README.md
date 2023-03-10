@@ -1,1 +1,2 @@
-# airoso.github.io
+# Atakan Adil Boyacı
+## Linguistics MA Student
