@@ -1,7 +1,7 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
+title: Atakan Adil Boyacı
+tagline: Linguistics MA Student @[Ankara University](http://linguistics.ankara.edu.tr)
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
